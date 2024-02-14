@@ -25,13 +25,13 @@ To use the Subnet Calculator, simply run the script and follow the prompts to in
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/subnet-calculator.git
+git clone https://github.com/Its4Nik/SubnetCalc.git
 ```
 
 2. Navigate to the directory:
 
 ```bash
-cd subnet-calculator
+cd SubnetCalc
 ```
 
 3. Run the script:
