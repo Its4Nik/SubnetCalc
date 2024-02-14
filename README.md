@@ -2,6 +2,10 @@
 
 This Bash script allows users to calculate network information such as CIDR notation, binary representation, and NetIP for both IPv4 and IPv6 addresses.
 
+## TO-DO:
+
+- Add Net Ip calculator for IPv4
+
 ## Usage
 
 To use the Subnet Calculator, simply run the script and follow the prompts to input your IPv4 or IPv6 address, as well as the subnet in CIDR notation.
